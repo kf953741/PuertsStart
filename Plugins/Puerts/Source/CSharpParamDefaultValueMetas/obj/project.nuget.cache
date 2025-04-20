@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ag53Djq7/pE=",
+  "success": true,
+  "projectFilePath": "D:\\Unreal Projects\\PuertsStart\\Plugins\\Puerts\\Source\\CSharpParamDefaultValueMetas\\CSharpParamDefaultValueMetas.ubtplugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kf953\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
